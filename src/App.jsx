@@ -163,6 +163,8 @@ function App() {
           </tbody>
         </table>
       </div>
+      <h1 className="mt-5">Gema Dodi Pranata</h1>
+      <p>PBL - Pengembangan Web dengan Nodejs dan React</p>
     </>
   );
 }
